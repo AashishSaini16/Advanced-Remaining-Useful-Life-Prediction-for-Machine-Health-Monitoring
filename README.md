@@ -1,4 +1,4 @@
-# Advanced Predictive Maintenance System
+# Advanced Remaining Useful Life(RUL) Prediction for Machine Health Monitoring
 
 This repository contains a Jupyter notebook for developing a stacking ensemble model to predict the Remaining Useful Life (RUL) of industrial machines using sensor data from the AI4I 2020 Predictive Maintenance Dataset. The project leverages XGBoost, RandomForest, LightGBM, SHAP for interpretability, and an interactive widget for real-time predictions, demonstrating preprocessing, model training, evaluation, and deployment-ready insights. From a business perspective, this system can help manufacturers reduce unplanned downtime (estimated at $50B+ annually industry-wide), optimize maintenance schedules, extend asset life, and enhance operational efficiency, potentially cutting maintenance costs by 10-20% through proactive interventions.
 
