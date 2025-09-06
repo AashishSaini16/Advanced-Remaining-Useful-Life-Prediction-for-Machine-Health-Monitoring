@@ -42,4 +42,3 @@ The dataset is sourced from the [UCI Machine Learning Repository: AI4I 2020 Pred
 
 * Interactive RUL Predictor: Implements an interactive widget with sliders for sensor inputs, input validation, and real-time predictions including derived features.
 ![Interactive Widget Demo](https://github.com/AashishSaini16/Advanced-Remaining-Useful-Life-Prediction-for-Machine-Health-Monitoring/blob/main/Interactive%20Widget%20Demo.PNG)
-interpretability. It provides actionable insights for maintenance scheduling and an interactive tool for real-time predictions, suitable for deployment in industrial settings.
